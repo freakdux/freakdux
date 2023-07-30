@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @freakdux
-- 👀 I’m interested in Dasta sciende and ML
+- 👋 Hi, I’m Mohit 
+- 👀 I’m interested in DSA
 - 🌱 I’m currently learning AI and mashine learning
 - 💞️ I’m looking to collaborate on a web development project
 - 📫 How to reach me at mohit.22gosain@gmail.com
