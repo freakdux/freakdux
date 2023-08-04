@@ -21,5 +21,6 @@ I'm a web developer and cloud computing enthusiast who loves to create and learn
 
 ## 😄 Fun fact
 
-- I created a graphical artwork of a web developer using an artificial intelligence model. Here is how it looks like:![_8ef96541-5108-454d-8a88-4a62d90ffd2f](https://github.com/freakdux/freakdux/assets/60173125/e07c3c24-8e71-4c86-b254-2cc5a699627d)
-![_cf1f2e60-4a06-4c2d-b6a8-1fd866881f39](https://github.com/freakdux/freakdux/assets/60173125/6f41a81a-7cae-4cdd-9510-ca41baf5cafd)
+- I love coffee ☕ and I drink at least three cups a day.
+- I play guitar 🎸 and I'm a fan of rock music 🎵.
+- I have a pet cat 🐱 named Cloudy who likes to sleep on my keyboard.
