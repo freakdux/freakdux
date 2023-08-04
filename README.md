@@ -1,6 +1,6 @@
 Hi, this is Bing. I'm happy to help you create a README file for your profile on GitHub. Here is a sample README file that you can use or modify as you wish:
 
-# Hi there, I'm [your name] 👋
+# Hi there, I'm Mohit 👋
 
 I'm a web developer and cloud computing enthusiast who loves to create and learn new things. I have experience in using various web technologies such as HTML, CSS, JavaScript, React, Node.js, and more. I also have knowledge of cloud platforms such as AWS, Azure, and Google Cloud.
 
