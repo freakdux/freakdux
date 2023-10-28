@@ -14,11 +14,11 @@ I'm a web developer and cloud computing enthusiast who loves to create and learn
 
 ## 📫 How to reach me
 
-- You can find me on [LinkedIn] or [Twitter] where I post updates about my projects and learning journey.
-- You can also email me at [your email address] if you have any questions or feedback.
+- You can find me on (https://twitter.com/freakdux)] or (https://twitter.com/freakdux) where I post updates about my projects and learning journey.
+- You can also email me at freakdux@proton.me if you have any questions or feedback.
 
 ## 😄 Fun fact
 
 - I love coffee ☕ and I drink at least three cups a day.
-- I play guitar 🎸 and I'm a fan of rock music 🎵.
+- I play Piano 🎹 and I'm a fan of House music 🎵.
 - I have a pet cat 🐱 named Cloudy who likes to sleep on my keyboard.
