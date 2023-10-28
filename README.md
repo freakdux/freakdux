@@ -1,6 +1,6 @@
 # Hi there, I'm Mohit 👋
 
-I'm a web developer and cloud computing enthusiast who loves to create and learn new things. I have experience in using various web technologies such as HTML, CSS, JavaScript, React, Node.js, and more. I also have knowledge of cloud platforms such as AWS, Azure, and Google Cloud.
+I'm a Full Stack developer and Cloud enthusiast who loves to create and learn new things. I have experience in using various web technologies such as HTML, CSS, JavaScript, React, Node.js, and more. I also have knowledge of cloud platforms such as AWS, and Google Cloud.
 
 ## 🌱 What I'm currently learning
 
@@ -14,7 +14,7 @@ I'm a web developer and cloud computing enthusiast who loves to create and learn
 
 ## 📫 How to reach me
 
-- You can find me on (https://www.linkedin.com/in/freakdux/) or (https://twitter.com/freakdux) where I post updates about my projects and learning journey.
+- You can find me on https://www.linkedin.com/in/freakdux/ or https://twitter.com/freakdux where I post updates about my projects and learning journey.
 - You can also email me at freakdux@proton.me if you have any questions or feedback.
 
 ## 😄 Fun fact
