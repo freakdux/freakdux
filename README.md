@@ -14,7 +14,7 @@ I'm a web developer and cloud computing enthusiast who loves to create and learn
 
 ## 📫 How to reach me
 
-- You can find me on (https://twitter.com/freakdux)] or (https://twitter.com/freakdux) where I post updates about my projects and learning journey.
+- You can find me on (https://www.linkedin.com/in/freakdux/) or (https://twitter.com/freakdux) where I post updates about my projects and learning journey.
 - You can also email me at freakdux@proton.me if you have any questions or feedback.
 
 ## 😄 Fun fact
